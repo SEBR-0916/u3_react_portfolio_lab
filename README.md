@@ -1,12 +1,5 @@
 # React Portfolio Lab
 
-
-We're here for a reason, and that reason certainly ain't hearing Jeremy's lame dad jokes
-
-We're here to enter the world of professional software engineering and coding. There are a few things that we will need to enter the field: A resume, a LinkedIn, and of course, a solid Portfolio site. 
-
-We are going to spend the next block working in conjunction with Outcomes to help build up our portfolio sites.
-
 This is *not* something you are going to finish up in 2 hours. In fact, it something that you are going to continue working on and updating even after you deploy it online.
 
 Take your time to plan out some wireframes and think of how you want to style your site
